@@ -1,0 +1,30 @@
+body{
+    background-color: blue;
+    color: yellow;
+    font-family: cursive;
+    text-align: center;
+    size: 100px;
+}
+.menu{
+    background-color: red;
+    color: black;
+    font-family: serif;
+}
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:white;
+    font-size: 20px;
+}
